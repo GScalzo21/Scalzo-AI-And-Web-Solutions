@@ -11,8 +11,7 @@ I design modern, intelligent, and high-performance solutions that help businesse
 **Service:** Full-Service Web Development + Digital Marketing Copywriting  
 This was my very first website build — a clean and professional showcase for marketing services including website development, content creation, SEO, and chatbot integration. It was built with one mission: help small businesses compete like pros online.
 <img width="1652" alt="Screenshot 2025-06-25 at 6 09 00 PM" src="https://github.com/user-attachments/assets/7dc7459f-ca0f-49b3-ba93-6225faf87837" />
-<img width="1658" alt="Screenshot 2025-06-25 at 6 09 19 PM" src="https://github.com/user-attachments/assets/0af0f59b-3ac3-4483-ad9c-4818fd48249a" />
-<img width="1636" alt="Screenshot 2025-06-25 at 6 09 55 PM" src="https://github.com/user-attachments/assets/ce38a1dd-96a5-4f61-b329-af4ef3f4b28c" />
+]<img width="1636" alt="Screenshot 2025-06-25 at 6 09 55 PM" src="https://github.com/user-attachments/assets/ce38a1dd-96a5-4f61-b329-af4ef3f4b28c" />
 
 
 ---
@@ -33,7 +32,7 @@ This project is currently in development — an advanced, futuristic website to 
 <img width="1675" alt="Screenshot 2025-06-25 at 6 11 36 PM" src="https://github.com/user-attachments/assets/0f9691b0-ecc2-421f-87e0-01dd6ce5d255" />
 <img width="1660" alt="Screenshot 2025-06-25 at 6 11 48 PM" src="https://github.com/user-attachments/assets/8a46a72c-af4d-45aa-aab9-9854f74e9c0e" />
 <img width="1701" alt="Screenshot 2025-06-25 at 6 11 57 PM" src="https://github.com/user-attachments/assets/093ecfa3-1b24-4b4f-b8bb-17a9bf5cb2ae" />
-<img width="1554" alt="Screenshot 2025-06-25 at 6 12 10 PM" src="https://github.com/user-attachments/assets/ee8b5ddf-b58d-4971-b927-18d51502e1c3" />
+<img width="1653" alt="Screenshot 2025-06-25 at 6 18 21 PM" src="https://github.com/user-attachments/assets/c2b48bbc-8a62-433f-82dd-2a3c5d167c6b" />
 
 ---
 
