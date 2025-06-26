@@ -58,6 +58,7 @@ I pride myself on **constant client communication**, ensuring you're never out o
 
 ## 🗂️ [Pricing & Services]
 
+📄 [Explore My Pricing Guide for Website & AI Chatbot Services](https://github.com/GScalzo21/Web-Development-And-AI-Chatbot-Portfolio/blob/GScalzo21/Website-And-AI-Packages.pdf)
 
 ---
 
