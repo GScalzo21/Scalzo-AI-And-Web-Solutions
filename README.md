@@ -56,9 +56,8 @@ I pride myself on **constant client communication**, ensuring you're never out o
 
 ---
 
-## 🗂️ [Pricing & Services Sheet Coming Soon]
+## 🗂️ [Pricing & Services]
 
-Simple flat-rate pricing, transparent service options, and subscription-based maintenance for ongoing support.
 
 ---
 
