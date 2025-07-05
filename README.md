@@ -36,6 +36,14 @@ This project is currently in development — an advanced, futuristic website to 
 
 ---
 
+### 🌿 Edge Line Lawn Care
+**Service:** Simple, Clean Website for a Local Lawn Care Business  
+This project was designed to establish a professional online presence for a new lawn care business. Built on Wix, the site highlights the company’s services, showcases before-and-after work, and includes contact options for local clients. The design keeps things clean, green, and easy to navigate — ideal for building trust and visibility in the community.  
+
+<img width="1702" alt="Screenshot 2025-07-05 at 1 37 19 PM" src="https://github.com/user-attachments/assets/d0a68757-c5c2-4602-b863-e1ea4f38fc64" />
+<img width="1668" alt="Screenshot 2025-07-05 at 1 37 36 PM" src="https://github.com/user-attachments/assets/01c62e2e-dd82-4e21-bc03-f98f5a3e51b7" />
+
+
 ## 💬 Let’s Build Something Powerful
 
 Whether you're starting from scratch or improving what you’ve got, let’s create something that makes your brand stand out. My goal is to make **your business look professional, run smoother, and connect smarter**.
