@@ -66,7 +66,125 @@ I pride myself on **constant client communication**, ensuring you're never out o
 
 ## 🗂️ [Pricing & Services]
 
-📄 [Explore My Pricing Guide for Website & AI Chatbot Services](https://github.com/GScalzo21/Web-Development-And-AI-Chatbot-Portfolio/blob/GScalzo21/Website-And-AI-Packages.pdf)
+## 💻 Website Development Packages
+
+### Starter Website Package – $250  
+Perfect for startups or personal brands.  
+**Includes:**  
+- 1–3-page responsive website (desktop & mobile)  
+- Basic SEO optimization  
+- Contact form integration  
+- Standard layout and images  
+
+---
+
+### 🚀 Professional Website Package – $600  
+Ideal for small to midsize businesses.  
+**Includes:**  
+- 4–6-page custom-designed site  
+- SEO-optimized copywriting  
+- Custom layout and design elements  
+- Integration with social media & Google Maps  
+- Blog setup (optional)  
+- 2 rounds of revisions  
+
+---
+
+### 🧠 Premium Website – $1,200  
+Designed for businesses looking to scale with automation.  
+**Includes:**  
+- 7+ pages fully customized  
+- AI chatbot integration (simple workflows)  
+- Newsletter/email collection  
+- Enhanced SEO strategy  
+- Analytics integration (Google Analytics, etc.)  
+- Priority turnaround  
+- 3 rounds of revisions  
+
+---
+
+## 🤖 AI Chatbot Packages
+
+### Essential Chatbot – $400  
+Basic automation for customer engagement.  
+**Includes:**  
+- 1 conversational flow  
+- Embedded on website or landing page  
+- Lead capture or FAQ handling  
+- Email notification integration  
+- 1 revision  
+
+---
+
+### 🔁 Advanced Chatbot – $800  
+A smart assistant with deeper functionality.  
+**Includes:**  
+- Multi-step conversation paths  
+- Appointment booking or product walkthrough  
+- Data collection to Airtable/Sheets  
+- Up to 3 use-case flows  
+- 2 revisions  
+
+---
+
+### 🧬 AI Power Chatbot – $2100+  
+For businesses that need intelligent automation.  
+**Includes:**  
+- Voiceflow/Airtable integration  
+- Full conversational workflows with fallback logic  
+- Form processing, quote generation  
+- Scalable logic for large catalogs or services  
+- Priority editing  
+- 3+ revisions  
+
+---
+
+## 🔄 Website Subscription Plans
+
+### 🛠️ Website Essentials – $50/month  
+**Includes:**  
+- Monthly content refresh (text, images, pricing updates)  
+- Performance checkup  
+- Plugin & feature update review  
+- Minor SEO adjustments  
+
+---
+
+### 🚀 Website Growth+ – $95/month  
+**Includes everything in Essentials**, plus:  
+- 2 blog or page updates per month  
+- SEO keyword tracking and light retargeting  
+- Monthly traffic report + growth suggestions  
+
+---
+
+## 🤖 AI Chatbot Subscription Plans
+
+### 📬 Chatbot Care – $50/month  
+**Includes:**  
+- Monthly bot performance review  
+- Minor tweaks to copy, tone, or logic  
+- Analytics report: interactions, drop-off points  
+- Email support for updates  
+
+---
+
+### 🧠 AI Optimization+ – $110/month  
+**Includes everything in Chatbot Care**, plus:  
+- Monthly improvements to workflows  
+- Add one new flow per month  
+- Data export or Airtable/Sheets enhancements  
+
+---
+
+## 💼 Total Business Automation Combo – $150/month  
+**(Save $55/month vs. buying both Growth+ & Optimization+ separately)**  
+**Includes:**  
+- Website Growth+ features  
+- AI Optimization+ features  
+- Priority support  
+- Monthly strategy session to align chatbot + website performance  
+
 
 ---
 
